@@ -3,6 +3,8 @@
 I'm Miftakh Ali Said,
 A fullstack developer from Indonesia.
 
+![](https://github-readme-stats.vercel.app/api?username=alisaid-sm&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=57A773&title_color=FFFFFF&text_color=FFFFFF&icon_color=98D44B)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alisaid-sm/alisaid-sm)
 
 <!--
