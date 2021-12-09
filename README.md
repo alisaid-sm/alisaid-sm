@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Miftakh Ali Said,
+A fullstack developer from Indonesia.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alisaid-sm/alisaid-sm)
+
 <!--
 **alisaid-sm/alisaid-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
