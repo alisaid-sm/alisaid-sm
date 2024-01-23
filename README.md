@@ -5,6 +5,8 @@ A fullstack developer from Indonesia.
 
 [![An image of @alisaidsm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alisaidsm)](https://holopin.io/@alisaidsm)
 
+[![Badge Codewars](https://www.codewars.com/users/alisaid-sm/badges/small)](https://www.codewars.com/users/alisaid-sm/badges/small)
+
 <!--
 **alisaid-sm/alisaid-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
