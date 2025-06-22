@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Miftakh Ali Said,
-A fullstack developer from Indonesia.
+A fullstack developer from Yogyakarta.
 
 [![An image of @alisaidsm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alisaidsm)](https://holopin.io/@alisaidsm)
 
